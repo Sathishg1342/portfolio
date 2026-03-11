@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sathishg1342.github.io/portfolio/sitemap.xml
